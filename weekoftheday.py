@@ -22,3 +22,5 @@ elif day == 6:
     print 'Sunday'
 
     #DUNZO
+
+#RANDOM comment pls github do commit
